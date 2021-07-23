@@ -13,3 +13,5 @@ D8RXFeQnVQodu+IyVtEXAAAAGnZpY2t5LnJhekBiZXJ5bHN5c3RlbXMuY29tAQID
 beryl@beryl:~$ cat ~/sshkey.pub
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6wNOcvVbt5iaz/ITMdglntD8RXFeQnVQodu+IyVtEX vicky.raz@berylsystems.com
 
+
+added ssh key.
