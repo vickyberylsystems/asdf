@@ -1,0 +1,15 @@
+beryl@beryl:~$ cat ~/sshkey
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACB+sDTnL1W7eYms/yEzHYJZ7Q/EVxXkJ1UKHbviMlbRFwAAAKAbul9JG7pf
+SQAAAAtzc2gtZWQyNTUxOQAAACB+sDTnL1W7eYms/yEzHYJZ7Q/EVxXkJ1UKHbviMlbRFw
+AAAEBUllEm021QTxidp6/ubT3qdL56+WV5ja7MW/nlH7LeCn6wNOcvVbt5iaz/ITMdglnt
+D8RXFeQnVQodu+IyVtEXAAAAGnZpY2t5LnJhekBiZXJ5bHN5c3RlbXMuY29tAQID
+-----END OPENSSH PRIVATE KEY-----
+
+
+
+
+beryl@beryl:~$ cat ~/sshkey.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6wNOcvVbt5iaz/ITMdglntD8RXFeQnVQodu+IyVtEX vicky.raz@berylsystems.com
+
