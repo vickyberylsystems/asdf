@@ -1,1 +1,26 @@
+beryl@beryl:~/Desktop/vicky/asdf$ ls -l
+total 24
+-rw-r--r-- 1 beryl beryl 1038 Jul 21 19:26 branch_merge.txt
+-rw-r--r-- 1 beryl beryl 1883 Jul 21 10:41 branch.txt
+-rw-r--r-- 1 beryl beryl 1457 Jul 21 19:26 delete_file.txt
+-rw-r--r-- 1 beryl beryl  608 Jul 23 11:29 sshkey.txt
+-rw-r--r-- 1 beryl beryl   34 Jul 21 10:41 test1.txt
+-rw-r--r-- 1 beryl beryl   34 Jul 21 10:41 test2.txt
+beryl@beryl:~/Desktop/vicky/asdf$ chmod 777 test.txt
+chmod: cannot access 'test.txt': No such file or directory
+beryl@beryl:~/Desktop/vicky/asdf$ chmod 777 test2.txt
+beryl@beryl:~/Desktop/vicky/asdf$ ls -l
+total 24
+-rw-r--r-- 1 beryl beryl 1038 Jul 21 19:26 branch_merge.txt
+-rw-r--r-- 1 beryl beryl 1883 Jul 21 10:41 branch.txt
+-rw-r--r-- 1 beryl beryl 1457 Jul 21 19:26 delete_file.txt
+-rw-r--r-- 1 beryl beryl  608 Jul 23 11:29 sshkey.txt
+-rw-r--r-- 1 beryl beryl   34 Jul 21 10:41 test1.txt
+-rwxrwxrwx 1 beryl beryl   34 Jul 21 10:41 test2.txt
+beryl@beryl:~/Desktop/vicky/asdf$ ls -a
+
+
+
+
+
 this file is added to vickybranch
